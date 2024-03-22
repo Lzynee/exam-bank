@@ -144,6 +144,7 @@ body {
     z-index: 10;
     text-align: center;
 }
+
 .loading-cnt .txt-box span,
 .error-cnt .txt-box span {
     display: block;
